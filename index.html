@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="assets/icon/file-code-solid.svg"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="path/to/font-awesome/css/font-awesome.min.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/9618200a61.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>CV Israel Santizo</title>
+  </head>
+  <body>
+    <div class="gridContainer">
+      <section class="habilidades">
+        <div class="habilidadesContainer">
+          <h1 class="titlePerfil">Israel Santizo</h1>
+          <div class="imagePerfil">
+            <img
+              class="imgPerfil"
+              src="assets/img/photo.jpg"
+              alt=""
+              width="200px"
+              height="200px"
+            />
+          </div>
+          <div class="contacto">
+            <div>
+              <span
+                ><i class="icoCont fas fa-briefcase"></i>Frontend
+                Developer</span
+              >
+            </div>
+            <div>
+              <span
+                ><i class="icoCont fas fa-house-user"></i>Guatemala,
+                Guatemala</span
+              >
+            </div>
+            <div>
+              <span
+                ><i class="icoCont fas fa-envelope"></i
+                >joseisraess@outlook.com</span
+              >
+            </div>
+          </div>
+          <div class="habilidad">
+            <h2>Habilidades</h2>
+            <div class="htmlHab">
+              <h3><i class="icoHab fab fa-html5"></i>Html</h3>
+              <div class="grey">
+                <div class="green"></div>
+              </div>
+            </div>
+            <div class="cssHab">
+              <h3><i class="icoHab fab fa-css3-alt"></i>Css</h3>
+            </div>
+            <div class="grey">
+              <div class="green"></div>
+            </div>
+            <div class="jsHab">
+              <h3><i class="icoHab fab fa-js-square"></i>JavaScript</h3>
+            </div>
+            <div class="grey">
+              <div class="green"></div>
+            </div>
+            <div class="phpHab">
+              <h3><i class="icoHab fab fa-php"></i>Php</h3>
+            </div>
+            <div class="grey">
+              <div class="green"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="main">
+        <div class="estudiosContainer">
+          <h2>Estudios Académicos</h2>
+          <h3>Pre-Kider a 3ero Primaria <span>- 2008</span></h3>
+          <p>Colegio Cristiano Verbo Los Álamos</p>
+          <h3>6to a 3er básico<h3>
+          <p>Instituto Evangélico América Latina <span>2009 - 2015</span></p>
+          <h3>
+            Bachillerato en Admistración Industrial y Perito en Electrónica
+            Digital y Reparación de Computadoras
+          </h3>
+          <p>
+            Instituto Privado Mixto Tecnológico Experimental Federico Taylor
+            <span>2015 - 2017</span>
+          </p>
+          <h3>Universidad Mariano Galvez de Guatemala</h3>
+        </div>
+        <div class="trabajoContainer">
+          <h2>Experiencia Laboral</h2>
+          <h3>Pre-Practicas</h3>
+          <p>HidroTecnia <span>2016</span></p>
+          <p>
+            Autorizadas por Instituto Privado Federico Taylor, realizando 200
+            hrs de trabajo efectivas desempeñando varias actividades como la
+            creación de tableros para la perforación de pozos y cableado
+            electico.
+          </p>
+          <h3>Practicas</h3>
+          <p>Latin Service <span>2017</span></p>
+          <p>
+            Autorizadas por Instituto Privado Federico Taylor, realizando 1000
+            hrs de trabajo efectivas desempeñando varias actividades como
+            diagnóstico y reparación de impresoras Epson de tinta continua y de
+            punto de impacto y Canon tinta continua.
+          </p>
+          <h3>Primer trabajo</h3>
+          <p>Latin Service <span> 2018 - 2020</span></p>
+          <p>
+            Contratado al finalizar el perido de práctica, manejando un panel
+            con equipos asignados con un tiempo de respuesta para el cliente de
+            3-4 días hábiles y llevando un cotrol de repuesto en mi bodega
+            asignada.
+          </p>
+        </div>
+        <div class="diplomasContainer">
+          
+            <h2 class="title">Diplomas</h2>
+            <div class="item diploma1" onclick="primeraImagen()"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+            <div class="item diploma2" onclick="segundaImagen()" id="diploma-2"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+            <div class="item diploma3" onclick="terceraImagen()"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+            <div class="item diploma4" onclick="cuartaImagen()"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+            <div class="item diploma5" onclick="quintaImagen()"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+            <div class="item diploma6" onclick="sextaImagen()"><p class="diplomaText" onmouseover="mOver(this)" onmouseout="mOut(this)"></p></div>
+        </div>
+        <div id="fondoModal1" class="fondoModal">
+        <div class="modal contenidoModal1" id="contenido-modal1">
+          <span class="close" id="close">&times;</span>
+          <div>
+            <span class="flechaLeft" id="flecha-left" onclick="primeraImagenL()"><i class="fas fa-angle-left" ></i></span>
+            
+          </div>
+          <!-- <a href="" id="flecha-left"><i class="fas fa-angle-left"></i></a> -->
+        </div>
+      </div>
+      <div id="fondoModal2" class="fondoModal">
+        <div class="modal contenidoModal2">
+          <span class="close" id="close2">&times;</span>
+        </div>
+      </div>
+      <div id="fondoModal3" class="fondoModal">
+        <div class="modal contenidoModal3">
+          <span class="close" id="close3">&times;</span>
+        </div>
+      </div>
+      <div id="fondoModal4" class="fondoModal">
+        <div class="modal contenidoModal4">
+          <span class="close" id="close4">&times;</span>
+          
+        </div>
+      </div>
+      <div id="fondoModal5" class="fondoModal">
+        <div class="modal contenidoModal5">
+          <span class="close" id="close5">&times;</span>
+        </div>
+      </div>
+      <div id="fondoModal6" class="fondoModal">
+        <div class="modal contenidoModal6">
+          <span class="close" id="close6">&times;</span>
+        </div>
+      </div>
+      </section>
+    </div>
+    <section class="footer">
+      <footer class="footerContainer">
+        <p>Desing by Israel Santizo</p>
+        <div class="icons">
+          <a href="https://github.com/IsraelSantizo98" target="_blank"
+            ><i class="icoFoot fab fa-github"></i
+          ></a>
+          <a href="https://www.instagram.com/israel_santos98/" target="_blank"
+            ><i class="icoFoot fab fa-instagram"></i
+          ></a>
+          <a
+            href="https://www.facebook.com/israel.santizosantos"
+            target="_blank"
+            ><i class="icoFoot fab fa-facebook"></i
+          ></a>
+          <a
+            href="https://www.linkedin.com/in/jos%C3%A9-israel-santizo-santos-81038b1a9/"
+            target="_blank"
+            ><i class="icoFoot fab fa-linkedin-in"></i
+          ></a>
+        </div>
+      </footer>
+    </section>
+    <script src="js/main.js"></script>
+  </body>
+</html>

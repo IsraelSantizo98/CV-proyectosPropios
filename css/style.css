@@ -1,0 +1,222 @@
+:root {
+  --fondoBody: #f1f1f1;
+  --colorPrincipal: #2c967b;
+  --colorSecundario: #47cfac;
+  --colorFecha: #5178aa;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  background-color: var(--fondoBody);
+}
+.gridContainer {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-template-areas: "habilidades main";
+  margin: 20px;
+}
+.titlePerfil {
+  text-align: center;
+  font-size: 45px;
+}
+.imgPerfil {
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+.contacto {
+  border-top: 1px solid black;
+  padding: 20px 0px;
+}
+.icoCont {
+  margin: 0px 5px 0px 0px;
+}
+.habilidades {
+  grid-area: habilidades;
+  border: 1px dashed black;
+}
+.habilidadesContainer {
+  padding: 10px;
+}
+.habilidad {
+  border-top: 1px solid black;
+}
+.icoHab {
+  margin-right: 5px;
+  color: #000;
+  font-size: 20px;
+}
+.grey {
+  height: 20px;
+  width: 100%;
+  background-color: darkslategray;
+  border-radius: 25px;
+}
+.green {
+  height: inherit;
+  width: 80%;
+  background-color: green;
+  border-radius: inherit;
+}
+.imagePerfil {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.main {
+  grid-area: main;
+  border: 1px dashed black;
+  padding: 20px;
+}
+.main span {
+  padding: 3px;
+  border-radius: 5px;
+  background-color: var(--colorFecha);
+}
+.trabajoContainer {
+  border-top: 1px solid black;
+  margin-top: 20px;
+}
+.diplomasContainer {
+  border-top: 1px solid black;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas: "title title title" "img1 img2 img3" "img4 img5 img6";
+}
+.title {
+  grid-area: title;
+}
+.item {
+  display: grid;
+  margin: 20px;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.diplomaText {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+}
+.diplomaText:hover {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.diploma1 {
+  grid-area: img1;
+  background-image: url(../assets/img/htmlPractico.png);
+}
+.diploma2 {
+  grid-area: img2;
+  background-image: url(../assets/img/cssPractico.png);
+}
+.diploma3 {
+  grid-area: img3;
+  background-image: url(../assets/img/cssGridLayout.png);
+}
+.diploma4 {
+  grid-area: img4;
+  background-image: url(../assets/img/desarrolloWeb.png);
+}
+.diploma5 {
+  grid-area: img5;
+  background-image: url(../assets/img/bootstrap.png);
+}
+.diploma6 {
+  grid-area: img6;
+  background-image: url(../assets/img/javascritBasico.png);
+}
+.footer {
+  border: 1px dashed black;
+  height: 150px;
+  width: 100%;
+  background-color: var(--colorSecundario);
+}
+.footerContainer {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+}
+.footerContainer a {
+  color: #000;
+  text-decoration: none;
+}
+.icoFoot {
+  font-size: 30px;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: #fff;
+}
+/*Modal*/
+.fondoModal {
+  display: none; /*Oculta el modal hasta que cuando se presione el btn aparezca*/
+  /*background-color: rgba(0, 0, 0, 0.4);*/
+  background-color: rgba(0, 0, 0, 0.452);
+  z-index: 5; /*entre mas grande sea el numero mayor prioridad tiene*/
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+.modal {
+  border-radius: 10px;
+  overflow: hidden; /*oculta las esquinas de la imagen*/
+  background-color: #fff;
+  margin: 0 auto;
+  width: 750px;
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contenidoModal1 {
+  background-image: url(../assets/img/htmlPractico.png);
+}
+.contenidoModal2 {
+  background-image: url(../assets/img/cssPractico.png);
+}
+.contenidoModal3 {
+  background-image: url(../assets/img/cssGridLayout.png);
+}
+.contenidoModal4 {
+  background-image: url(../assets/img/desarrolloWeb.png);
+}
+.contenidoModal5 {
+  background-image: url(../assets/img/bootstrap.png);
+}
+.contenidoModal6 {
+  background-image: url(../assets/img/javascritBasico.png);
+}
+.flechaLeft {
+  color: #000;
+  background-color: #fff !important;
+  font-size: 50px;
+  position: absolute;
+  left: 390px;
+  bottom: 360px;
+}
+.close {
+  color: #000;
+  background-color: #fff !important;
+  position: absolute;
+  right: 390px;
+  margin: 0;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+.close:hover {
+  cursor: pointer;
+  color: #000;
+}
