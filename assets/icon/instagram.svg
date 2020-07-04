@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="497" viewBox="0 0 504 497" style="">
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-328 -102)">
+    <g id="RectÃ¡ngulo_1" data-name="RectÃ¡ngulo 1" transform="translate(328 102)" fill="#fff" stroke="#707070" stroke-linejoin="bevel" stroke-width="20">
+      <path width="504" height="497" stroke="none" d="M 109,0 L 395,0 A 109,109,0,0,1,504,109 L 504,388 A 109,109,0,0,1,395,497 L 109,497 A 109,109,0,0,1,0,388 L 0,109 A 109,109,0,0,1,109,0" class="egSxVqUJ_0"></path>
+      <path width="484" height="477" fill="none" d="M 109,10 L 395,10 A 99,99,0,0,1,494,109 L 494,388 A 99,99,0,0,1,395,487 L 109,487 A 99,99,0,0,1,10,388 L 10,109 A 99,99,0,0,1,109,10" class="egSxVqUJ_1"></path>
+    </g>
+    <g id="Trazado_1" data-name="Trazado 1" transform="translate(450 217)" fill="#fff">
+      <path d="M 130.5 258 C 64.05609130859375 258 10 202.3738250732422 10 134 C 10 65.62618255615234 64.05609130859375 10 130.5 10 C 196.9439086914063 10 251 65.62618255615234 251 134 C 251 202.3738250732422 196.9439086914063 258 130.5 258 Z" stroke="none" class="egSxVqUJ_2"></path>
+      <path d="M 130.5 20 C 69.57009887695313 20 20 71.14021301269531 20 134 C 20 196.8597869873047 69.57009887695313 248 130.5 248 C 191.4299011230469 248 241 196.8597869873047 241 134 C 241 71.14021301269531 191.4299011230469 20 130.5 20 M 130.5 0 C 202.5731506347656 0 261 59.99383544921875 261 134 C 261 208.0061645507813 202.5731506347656 268 130.5 268 C 58.42684936523438 268 0 208.0061645507813 0 134 C 0 59.99383544921875 58.42684936523438 0 130.5 0 Z" stroke="none" fill="#707070" class="egSxVqUJ_3"></path>
+    </g>
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(711 164)" fill="#707070" stroke="#707070" stroke-width="1">
+      <path stroke="none" d="M0,26.5A24.5,26.5 0,1,1 49,26.5A24.5,26.5 0,1,1 0,26.5" class="egSxVqUJ_4"></path>
+      <path fill="none" d="M0.5,26.5A24,26 0,1,1 48.5,26.5A24,26 0,1,1 0.5,26.5" class="egSxVqUJ_5"></path>
+    </g>
+  </g>
+<style data-made-with="vivus-instant">.egSxVqUJ_0{stroke-dasharray:1815 1817;stroke-dashoffset:1816;animation:egSxVqUJ_draw 2000ms ease 0ms forwards;}.egSxVqUJ_1{stroke-dasharray:1753 1755;stroke-dashoffset:1754;animation:egSxVqUJ_draw 2000ms ease 200ms forwards;}.egSxVqUJ_2{stroke-dasharray:769 771;stroke-dashoffset:770;animation:egSxVqUJ_draw 2000ms ease 400ms forwards;}.egSxVqUJ_3{stroke-dasharray:1537 1539;stroke-dashoffset:1538;animation:egSxVqUJ_draw 2000ms ease 600ms forwards;}.egSxVqUJ_4{stroke-dasharray:161 163;stroke-dashoffset:162;animation:egSxVqUJ_draw 2000ms ease 800ms forwards;}.egSxVqUJ_5{stroke-dasharray:158 160;stroke-dashoffset:159;animation:egSxVqUJ_draw 2000ms ease 1000ms forwards;}@keyframes egSxVqUJ_draw{100%{stroke-dashoffset:0;}}@keyframes egSxVqUJ_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

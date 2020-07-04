@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="313" height="242" viewBox="0 0 313 242" class="" style="">
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-88 -204)">
+    <g id="RectÃ¡ngulo_1" data-name="RectÃ¡ngulo 1" transform="translate(88 204)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.65">
+      <path width="313" height="242" stroke="none" d="M 25,0 L 288,0 A 25,25,0,0,1,313,25 L 313,217 A 25,25,0,0,1,288,242 L 25,242 A 25,25,0,0,1,0,217 L 0,25 A 25,25,0,0,1,25,0" class="yHrWQddd_0"></path>
+      <path width="310" height="239" fill="none" d="M 24.5,1.5 L 288.5,1.5 A 23,23,0,0,1,311.5,24.5 L 311.5,217.5 A 23,23,0,0,1,288.5,240.5 L 24.5,240.5 A 23,23,0,0,1,1.5,217.5 L 1.5,24.5 A 23,23,0,0,1,24.5,1.5" class="yHrWQddd_1"></path>
+    </g>
+    <g id="RectÃ¡ngulo_2" data-name="RectÃ¡ngulo 2" transform="translate(122 238)" fill="#666" stroke="#000" stroke-width="1">
+      <path width="244" height="12" stroke="none" d="M0 0 L244 0 L244 12 L0 12 Z" class="yHrWQddd_2"></path>
+      <path width="243" height="11" fill="none" d="M0.5 0.5 L243.5 0.5 L243.5 11.5 L0.5 11.5 Z" class="yHrWQddd_3"></path>
+    </g>
+    <g id="RectÃ¡ngulo_3" data-name="RectÃ¡ngulo 3" transform="translate(122 238)" fill="#666" stroke="#000" stroke-width="1">
+      <path width="244" height="12" stroke="none" d="M0 0 L244 0 L244 12 L0 12 Z" class="yHrWQddd_4"></path>
+      <path width="243" height="11" fill="none" d="M0.5 0.5 L243.5 0.5 L243.5 11.5 L0.5 11.5 Z" class="yHrWQddd_5"></path>
+    </g>
+    <g id="RectÃ¡ngulo_4" data-name="RectÃ¡ngulo 4" transform="translate(122 238)" fill="#666" stroke="#000" stroke-width="1">
+      <path width="244" height="12" stroke="none" d="M0 0 L244 0 L244 12 L0 12 Z" class="yHrWQddd_6"></path>
+      <path width="243" height="11" fill="none" d="M0.5 0.5 L243.5 0.5 L243.5 11.5 L0.5 11.5 Z" class="yHrWQddd_7"></path>
+    </g>
+    <g id="Componente_1_1" data-name="Componente 1 â 1" transform="translate(122 238)">
+      <path id="RectÃ¡ngulo_5" data-name="RectÃ¡ngulo 5" width="244" height="12" fill="#666" d="M0 0 L244 0 L244 12 L0 12 Z" class="yHrWQddd_8"></path>
+    </g>
+    <path id="RectÃ¡ngulo_6" data-name="RectÃ¡ngulo 6" width="128" height="5" transform="translate(122 272)" fill="#d1d1d1" d="M0 0 L128 0 L128 5 L0 5 Z" class="yHrWQddd_9"></path>
+    <path id="RectÃ¡ngulo_7" data-name="RectÃ¡ngulo 7" width="244" height="7" transform="translate(122 294)" fill="#d1d1d1" d="M0 0 L244 0 L244 7 L0 7 Z" class="yHrWQddd_10"></path>
+    <path id="RectÃ¡ngulo_8" data-name="RectÃ¡ngulo 8" width="244" height="7" transform="translate(123 308)" fill="#d1d1d1" d="M0 0 L244 0 L244 7 L0 7 Z" class="yHrWQddd_11"></path>
+    <path id="RectÃ¡ngulo_9" data-name="RectÃ¡ngulo 9" width="244" height="7" transform="translate(123 322)" fill="#d1d1d1" d="M0 0 L244 0 L244 7 L0 7 Z" class="yHrWQddd_12"></path>
+    <path id="RectÃ¡ngulo_10" data-name="RectÃ¡ngulo 10" width="244" height="7" transform="translate(123 336)" fill="#d1d1d1" d="M0 0 L244 0 L244 7 L0 7 Z" class="yHrWQddd_13"></path>
+    <path id="RectÃ¡ngulo_11" data-name="RectÃ¡ngulo 11" width="244" height="7" transform="translate(123 350)" fill="#d1d1d1" d="M0 0 L244 0 L244 7 L0 7 Z" class="yHrWQddd_14"></path>
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(127 369)" fill="#fff" stroke="#707070" stroke-width="3">
+      <path stroke="none" d="M0,28.5A29.5,28.5 0,1,1 59,28.5A29.5,28.5 0,1,1 0,28.5" class="yHrWQddd_15"></path>
+      <path fill="none" d="M1.5,28.5A28,27 0,1,1 57.5,28.5A28,27 0,1,1 1.5,28.5" class="yHrWQddd_16"></path>
+    </g>
+    <g id="Elipse_2" data-name="Elipse 2" transform="translate(216 369)" fill="#fff" stroke="#d1d1d1" stroke-width="3">
+      <path stroke="none" d="M0,28.5A29.5,28.5 0,1,1 59,28.5A29.5,28.5 0,1,1 0,28.5" class="yHrWQddd_17"></path>
+      <path fill="none" d="M1.5,28.5A28,27 0,1,1 57.5,28.5A28,27 0,1,1 1.5,28.5" class="yHrWQddd_18"></path>
+    </g>
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(307 369)" fill="#fff" stroke="#d1d1d1" stroke-width="3">
+      <path stroke="none" d="M0,28.5A29.5,28.5 0,1,1 59,28.5A29.5,28.5 0,1,1 0,28.5" class="yHrWQddd_19"></path>
+      <path fill="none" d="M1.5,28.5A28,27 0,1,1 57.5,28.5A28,27 0,1,1 1.5,28.5" class="yHrWQddd_20"></path>
+    </g>
+  </g>
+<style data-made-with="vivus-instant">.yHrWQddd_0{stroke-dasharray:1068 1070;stroke-dashoffset:1069;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_1{stroke-dasharray:1059 1061;stroke-dashoffset:1060;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_2{stroke-dasharray:512 514;stroke-dashoffset:513;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_3{stroke-dasharray:508 510;stroke-dashoffset:509;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_4{stroke-dasharray:512 514;stroke-dashoffset:513;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_5{stroke-dasharray:508 510;stroke-dashoffset:509;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_6{stroke-dasharray:512 514;stroke-dashoffset:513;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_7{stroke-dasharray:508 510;stroke-dashoffset:509;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_8{stroke-dasharray:512 514;stroke-dashoffset:513;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_9{stroke-dasharray:266 268;stroke-dashoffset:267;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_10{stroke-dasharray:502 504;stroke-dashoffset:503;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_11{stroke-dasharray:502 504;stroke-dashoffset:503;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_12{stroke-dasharray:502 504;stroke-dashoffset:503;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_13{stroke-dasharray:502 504;stroke-dashoffset:503;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_14{stroke-dasharray:502 504;stroke-dashoffset:503;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_15{stroke-dasharray:183 185;stroke-dashoffset:184;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_16{stroke-dasharray:173 175;stroke-dashoffset:174;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_17{stroke-dasharray:183 185;stroke-dashoffset:184;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_18{stroke-dasharray:173 175;stroke-dashoffset:174;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_19{stroke-dasharray:183 185;stroke-dashoffset:184;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}.yHrWQddd_20{stroke-dasharray:173 175;stroke-dashoffset:174;animation:yHrWQddd_draw 3000ms ease-in-out 0ms forwards;}@keyframes yHrWQddd_draw{100%{stroke-dashoffset:0;}}@keyframes yHrWQddd_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
